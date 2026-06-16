@@ -1,0 +1,8 @@
+image,repository,size_gb,last_pull_days,pulls_last_30_days,environment
+api-gateway:1.8.2,platform,12.4,2,480,production
+legacy-worker:0.9.1,operations,18.7,210,0,development
+billing-service:2.4.0,finance,9.2,14,320,production
+experiment-ai-agent:0.3.0,innovation,24.5,95,8,sandbox
+frontend-web:4.1.7,digital,6.8,4,510,production
+old-confluence-addon:1.0.0,devtools,15.0,365,0,archive_candidate
+batch-processor:3.2.1,data,31.2,45,55,production
