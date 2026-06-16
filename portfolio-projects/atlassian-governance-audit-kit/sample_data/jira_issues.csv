@@ -1,0 +1,9 @@
+id,type,platform,priority,status,sla_breached,resolution_hours
+DEV-101,incident,Jira,high,resolved,true,9.5
+DEV-102,request,Confluence,medium,resolved,false,6.0
+DEV-103,incident,Bitbucket,critical,resolved,true,3.2
+DEV-104,change,Jira,medium,closed,false,12.0
+DEV-105,request,Jira Service Management,low,resolved,false,4.0
+DEV-106,incident,Confluence,high,in_progress,false,2.5
+DEV-107,change,Bitbucket,medium,closed,false,10.0
+DEV-108,incident,Jenkins,critical,resolved,true,5.0
