@@ -1,0 +1,8 @@
+incident_id,service,severity,start_minutes,end_minutes,sla_minutes,root_cause
+INC-001,jira,high,0,72,60,plugin regression
+INC-002,bitbucket,critical,300,342,45,storage latency
+INC-003,jenkins,medium,600,655,120,agent capacity
+INC-004,confluence,high,900,980,60,database connection pool
+INC-005,nexus,critical,1300,1365,45,repository storage threshold
+INC-006,jira,low,1700,1725,240,user configuration
+INC-007,jenkins,high,2100,2168,60,pipeline executor saturation
