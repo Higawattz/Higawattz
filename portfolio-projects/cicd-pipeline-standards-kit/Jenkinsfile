@@ -1,0 +1,10 @@
+@Library('engineering-standards') _
+
+standardPipeline(
+    appName: 'portfolio-service',
+    language: 'python',
+    runStaticChecks: true,
+    runUnitTests: true,
+    runSecurityScan: true,
+    requireDeploymentApproval: true
+)
