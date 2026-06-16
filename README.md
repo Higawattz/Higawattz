@@ -4,12 +4,13 @@
 
 ### Atlassian Specialist | DevOps | Cloud | SRE | Platform Engineering | ITSM | BI
 
-**PCD technology professional with 15+ years of experience and 4+ years focused on DevTools, DevOps, Atlassian platforms, CI/CD, SRE and Cloud operations.**  
-I help engineering organizations improve reliability, delivery flow, operational visibility, governance and cost efficiency in high-availability corporate environments.
+**PCD technology professional focused on DevTools, Atlassian platforms, CI/CD, SRE, Cloud operations, governance, metrics and cost optimization.**  
+I help engineering organizations improve reliability, delivery flow, operational visibility and platform efficiency in high-availability environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emerson--higa--bellini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-higa-bellini/)
 [![Email](https://img.shields.io/badge/Email-emersonhiga1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonhiga1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Higawattz-181717?style=for-the-badge&logo=github)](https://github.com/Higawattz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-2F855A?style=for-the-badge&logo=github)](./portfolio-projects)
 [![Profile Views](https://komarev.com/ghpvc/?username=Higawattz&style=for-the-badge&color=0e75b6)](https://github.com/Higawattz)
 
 **Brazil | Argentina | Open to global technology opportunities**
@@ -18,30 +19,44 @@ I help engineering organizations improve reliability, delivery flow, operational
 
 ---
 
-## Executive Profile
+## Recruiter Snapshot
 
-I am an **Atlassian Specialist, SysAdmin and DevOps/Cloud professional** with experience in corporate DevTools environments, critical platform administration, CI/CD automation, SRE practices, ITSM, observability, troubleshooting, support, configuration governance and executive indicators.
-
-My recent work at **Banco BV** involved the administration and evolution of **Jira, Confluence, Bitbucket, Jenkins, Spinnaker, Nexus, UrbanCode, SD Elements, ServiceNow and observability platforms**, supporting squads and high-availability engineering environments.
-
-I combine technical execution with business impact: platform governance, vendor negotiation in English and Spanish, audit evidence, DORA metrics, MTTR/MTBF/SLA indicators, Power BI dashboards, cost optimization, Agile enablement and AI-assisted engineering productivity.
-
-> **Resumo em portugues:** profissional PCD com experiencia em Atlassian, DevOps, Cloud, SRE, ITSM, CI/CD, BI e governanca de ferramentas. Atuei no Banco BV com Jira, Confluence, Bitbucket, Jenkins, Spinnaker, Nexus, UrbanCode, SD Elements, ServiceNow, indicadores executivos, DORA Metrics, observabilidade, auditorias, automacao, MultiCloud e otimizacao de custos.
+| Signal | Evidence |
+|---|---|
+| Experience | 15+ years across technology, operations, infrastructure, business and international environments |
+| Recent focus | 4+ years in DevTools, DevOps, Atlassian administration, CI/CD, SRE and Cloud operations |
+| Platforms | Jira, Confluence, Bitbucket, Jenkins, Spinnaker, Nexus, UrbanCode, SD Elements, ServiceNow, ConfigCat |
+| Reliability | DataDog, Grafana, Prometheus, Nimsoft, MTTR, MTBF, SLA, availability and incident analysis |
+| Metrics | 28 strategic KPIs, Power BI executive dashboards, DORA Metrics and operational reporting |
+| Business impact | TechChallenge / 4DS initiative with million-level Docker storage savings |
+| Global readiness | Portuguese, English and Spanish; 7 years living and studying in Australia |
 
 ---
 
-## Featured Portfolio Projects
+## What I Do
 
-These non-confidential portfolio projects were created to show how my professional experience translates into reusable engineering assets, documentation and practical examples.
+I work at the intersection of **platform governance, DevOps operations, CI/CD standardization, SRE visibility and business impact**.
 
-| Project | Focus | Recruiter validation |
+My recent work at **Banco BV** involved the administration and evolution of critical engineering platforms such as **Jira, Confluence, Bitbucket, Jenkins, Spinnaker, Nexus, UrbanCode, SD Elements, ServiceNow and observability tools**.
+
+I bring a pragmatic profile for multinational teams: hands-on platform support, vendor negotiation in English and Spanish, audit evidence, executive indicators, DORA Metrics, cost optimization, Agile enablement and AI-assisted engineering productivity.
+
+> **Resumo em portugues:** profissional PCD com experiencia em Atlassian, DevOps, Cloud, SRE, ITSM, CI/CD, BI e governanca de ferramentas. Atuei com Jira, Confluence, Bitbucket, Jenkins, Spinnaker, Nexus, UrbanCode, SD Elements, ServiceNow, indicadores executivos, DORA Metrics, observabilidade, auditorias, automacao, MultiCloud e otimizacao de custos.
+
+---
+
+## Featured Proof-of-Work Projects
+
+These non-confidential projects turn my professional experience into concrete GitHub evidence. Each project includes documentation, sample data and runnable examples or implementation artifacts.
+
+| Project | What it proves | Main artifacts |
 |---|---|---|
-| [Atlassian Governance Audit Kit](./portfolio-projects/atlassian-governance-audit-kit) | Jira, Confluence, Bitbucket, plugins, audit support | Platform administration, governance reporting and risk-based review |
-| [CI/CD Pipeline Standards Kit](./portfolio-projects/cicd-pipeline-standards-kit) | Jenkins, Shared Libraries, quality gates | Pipeline standardization, DevOps enablement and delivery controls |
-| [SRE Observability Metrics Kit](./portfolio-projects/sre-observability-metrics-kit) | MTTR, MTBF, SLA, incident analysis | Reliability metrics, troubleshooting and leadership visibility |
-| [Cloud Storage Optimization Kit](./portfolio-projects/cloud-storage-optimization-kit) | Docker storage, hot/cold tiers, cost modeling | Cost optimization thinking inspired by the TechChallenge / 4DS case |
+| [Atlassian Governance Audit Kit](./portfolio-projects/atlassian-governance-audit-kit) | Atlassian administration, plugin governance, audit readiness, KPI reporting | Python report generator, fictional Jira/plugin datasets, governance README |
+| [CI/CD Pipeline Standards Kit](./portfolio-projects/cicd-pipeline-standards-kit) | Jenkins standardization, Shared Library thinking, quality gates, DevOps enablement | Jenkinsfile, Groovy shared library, governance checklist |
+| [SRE Observability Metrics Kit](./portfolio-projects/sre-observability-metrics-kit) | Reliability metrics, MTTR, MTBF, SLA, incident analysis and executive visibility | Python SRE report, fictional incident dataset, improvement actions |
+| [Cloud Storage Optimization Kit](./portfolio-projects/cloud-storage-optimization-kit) | Docker image lifecycle, hot/cold tiering, cost optimization and 4DS-style thinking | Python optimizer, fictional Docker inventory, savings model |
 
-[View all portfolio projects](./portfolio-projects)
+[Explore all portfolio projects](./portfolio-projects)
 
 ---
 
@@ -58,7 +73,7 @@ These non-confidential portfolio projects were created to show how my profession
 
 ---
 
-## Recruiter-Ready Skill Map
+## Technical Domains
 
 | Domain | Practical evidence from my background |
 |---|---|
@@ -71,7 +86,6 @@ These non-confidential portfolio projects were created to show how my profession
 | Business and finance | CAPEX/OPEX tracking, budget control, provider negotiation and cost optimization initiatives |
 | BI and metrics | 28 strategic KPIs, Power BI executive dashboards, DORA Metrics and operational performance reporting |
 | AI-enabled productivity | Gemini Code Assist pilots, adoption KPIs and autonomous-agent workflow evaluation |
-| International communication | Fluent Portuguese, English and Spanish; 7 years living and studying in Australia |
 
 ---
 
@@ -129,7 +143,7 @@ These non-confidential portfolio projects were created to show how my profession
 
 ---
 
-## Technology Stack
+## Stack and Tools
 
 <div align="center">
 
@@ -158,19 +172,22 @@ These non-confidential portfolio projects were created to show how my profession
 
 ---
 
-## Certifications and Education
+## Education, Certifications and Languages
+
+**Education**
 
 - Postgraduate Specialization in Cloud Computing and IoT - Universidade Anhembi Morumbi, 2024
 - Degree in Internet of Things and Cloud Computing - Universidade Anhembi Morumbi, 2023
 - Leadership and Management in Business - Macquarie Graduate School of Management, 2015 - 2018
 - Diploma of Education in Business, Administration and Marketing - Southern Cross University, 2018 - 2020
 - IELTS / Foreign Languages - Lloyd's International College, 2014 - 2015
+
+**Certifications and courses**
+
 - AWS, Google Cloud / GCP Associate, Microsoft Azure AZ-900, ITIL 4 Foundation, Atlassian Operations Professional
 - DevOps Foundations, Secure Coding, Web Security, OWASP Top 10, HTML and CSS, Google Cloud Big Data & Machine Learning Fundamentals
 
----
-
-## Languages
+**Languages**
 
 | Language | Proficiency |
 |---|---|
@@ -180,15 +197,13 @@ These non-confidential portfolio projects were created to show how my profession
 
 ---
 
-## Recruiter Validation Guide
+## How to Validate This Profile in 5 Minutes
 
-Recruiters and hiring managers can validate this portfolio through five evidence paths:
-
-1. **Career evidence:** LinkedIn profile, Banco BV experience history and role progression from DevTools support to DevOps/SRE responsibilities.
-2. **Impact evidence:** TechChallenge/4DS, Docker storage optimization, 28 KPIs, Power BI dashboards, DORA Metrics and cost governance.
-3. **Technical evidence:** CI/CD, Atlassian administration, SRE dashboards, MultiCloud operations, ServiceNow, automation and audit support.
-4. **Communication evidence:** fluent English, Spanish and Portuguese, international background and provider negotiation experience.
-5. **Portfolio evidence:** public GitHub projects and technical documentation created from non-confidential professional experience.
+1. Review the [Featured Proof-of-Work Projects](./portfolio-projects) for practical examples.
+2. Check the DevOps/Atlassian/SRE evidence in the **Technical Domains** section.
+3. Compare the Banco BV experience here with my [LinkedIn profile](https://www.linkedin.com/in/emerson-higa-bellini/).
+4. Inspect the Python and Jenkins/Groovy examples for structure, clarity and business context.
+5. Contact me for deeper discussion about platform governance, CI/CD, SRE metrics, Atlassian administration or cost optimization.
 
 ---
 
