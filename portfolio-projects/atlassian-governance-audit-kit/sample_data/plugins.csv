@@ -1,0 +1,7 @@
+plugin,platform,owner,business_critical,last_review_days,license_status
+Automation for Jira,Jira,DevTools,true,35,active
+ScriptRunner,Jira,DevTools,true,112,active
+Draw.io,Confluence,Knowledge Management,false,190,active
+Security Scanner,Bitbucket,Security,true,78,active
+Legacy Workflow Helper,Jira,DevTools,false,410,expired
+Reporting Add-on,Confluence,BI,false,95,active
