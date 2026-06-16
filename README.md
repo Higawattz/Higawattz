@@ -30,6 +30,21 @@ I combine technical execution with business impact: platform governance, vendor 
 
 ---
 
+## Featured Portfolio Projects
+
+These non-confidential portfolio projects were created to show how my professional experience translates into reusable engineering assets, documentation and practical examples.
+
+| Project | Focus | Recruiter validation |
+|---|---|---|
+| [Atlassian Governance Audit Kit](./portfolio-projects/atlassian-governance-audit-kit) | Jira, Confluence, Bitbucket, plugins, audit support | Platform administration, governance reporting and risk-based review |
+| [CI/CD Pipeline Standards Kit](./portfolio-projects/cicd-pipeline-standards-kit) | Jenkins, Shared Libraries, quality gates | Pipeline standardization, DevOps enablement and delivery controls |
+| [SRE Observability Metrics Kit](./portfolio-projects/sre-observability-metrics-kit) | MTTR, MTBF, SLA, incident analysis | Reliability metrics, troubleshooting and leadership visibility |
+| [Cloud Storage Optimization Kit](./portfolio-projects/cloud-storage-optimization-kit) | Docker storage, hot/cold tiers, cost modeling | Cost optimization thinking inspired by the TechChallenge / 4DS case |
+
+[View all portfolio projects](./portfolio-projects)
+
+---
+
 ## Target Roles
 
 - Atlassian Specialist / Jira-Confluence-Bitbucket Administrator
@@ -67,87 +82,38 @@ I combine technical execution with business impact: platform governance, vendor 
 **IT Infrastructure Analyst - Mid Level**  
 **Sep 2024 - Feb 2026 | Sao Paulo, Brazil**
 
-Worked in DevOps with focus on automation, CI/CD and observability for high-availability corporate environments.
-
-**Main contributions**
-
 - Led external communication and strategic negotiations with international providers in English and Spanish.
-- Managed critical incidents and technical requests through ServiceNow.
 - Governed and evolved **ConfigCat** as a Feature Toggle platform.
 - Worked on large-scale CI/CD pipeline evolution, including Jenkins standardization with **Shared Libraries**.
 - Built automations and **Cloud Functions** to improve operational flows.
-- Supported Agile squads using Scrum and DevOps practices.
-- Resolved internal audit findings and produced technical evidence for compliance requirements.
-- Conducted mentoring and onboarding sessions to accelerate team learning and spread DevOps best practices.
 - Built DataDog dashboards for critical KPIs such as availability, MTTR and MTBF.
-- Used Grafana, Prometheus and Nimsoft for advanced application and infrastructure monitoring.
 - Implemented DORA Metrics, including Lead Time and Deployment Frequency visibility.
 - Participated in AI innovation initiatives using **Gemini Code Assist**, adoption KPIs and autonomous-agent workflow exploration.
-
-**Key impact**
-
-- Led the **TechChallenge / 4DS - Four Docker Storage** initiative, a platform designed to optimize Docker image storage across hot and cold storage layers, generating million-level savings.
-- Improved troubleshooting speed and operational visibility through SRE dashboards and critical KPI tracking.
-- Strengthened CI/CD governance, DevOps culture and standardization across engineering teams.
-
----
+- Led the **TechChallenge / 4DS - Four Docker Storage** initiative, generating million-level savings through Docker storage optimization.
 
 ### Banco BV | DevTools & DevOps
 
 **IT Infrastructure Analyst - Junior**  
 **Apr 2023 - Sep 2024 | Sao Paulo, Brazil**
 
-Worked on administration, support and continuous evolution of critical DevTools and DevOps applications.
-
-**Main contributions**
-
-- Administered and evolved Atlassian platforms: Jira, Confluence and Bitbucket.
-- Supported DevOps tools including Jenkins, Spinnaker, Nexus and SD Elements.
-- Acted as SRE for applications, supporting availability, stability, performance and reliability.
+- Administered and evolved Jira, Confluence and Bitbucket.
+- Supported Jenkins, Spinnaker, Nexus and SD Elements.
+- Acted as SRE for critical applications, supporting availability, stability, performance and reliability.
 - Managed incidents, requests and advanced troubleshooting through ServiceNow.
 - Planned and executed GMUDs for updates, fixes, infrastructure improvements, security and governance.
-- Supported critical changes and after-hours deployments to reduce operational impact.
-- Developed and tracked strategic KPIs including MTTR, MTBF, SLA and availability.
-- Created executive dashboards in Power BI.
+- Developed KPIs including MTTR, MTBF, SLA and availability, with executive dashboards in Power BI.
 - Supported internal audits, compliance routines and technical evidence collection.
-- Managed plugins, extensions and platform integrations.
-- Mentored and onboarded new team members.
-
----
 
 ### Banco BV | DevTools
 
 **Senior Administrative Assistant**  
 **Nov 2021 - Mar 2023 | Brazil**
 
-Worked in the DevTools team supporting administration, operations and continuous improvement of development and DevOps ecosystem tools.
-
-**Main contributions**
-
-- Acted as SysAdmin for Jira, Confluence and Bitbucket, supporting availability, performance, governance and evolution.
+- Acted as SysAdmin for Jira, Confluence and Bitbucket.
 - Supported Jenkins, Spinnaker, Nexus, UrbanCode and SD Elements.
-- Managed incidents, requests and technical troubleshooting through ServiceNow.
 - Structured and managed **28 strategic KPIs**, including MTTR, MTBF, system availability, SLA, incident indicators and operational efficiency.
 - Created Power BI executive dashboards and biweekly management presentations.
-- Supported internal audits, evidence collection, process adjustments and governance controls.
 - Researched, tested and validated plugins, extensions and add-ons for platform optimization.
-
----
-
-## International and Business Background
-
-Before focusing deeply on technology platforms, I built a broad operational and business foundation across Brazil and Australia:
-
-| Organization | Role | Period | Relevant strengths |
-|---|---|---|---|
-| Agia Projects | Trade Assistant | 2018 - 2021 | Budget authorization, supplier relations, contracts, subcontractors and procurement |
-| Gledhill Projects and Trading | Trade Assistant | 2015 - 2018 | Purchasing, budget control, supplier management, contracts and communication support |
-| LATAM Airlines | Commercial Assistant | 2013 - 2014 | Budget control, partner contracts, sales analysis, KPIs, balanced scorecards and reporting |
-| FIESP | Administrative Assistant | 2010 - 2012 | Export documentation, certificates of origin, document analysis and team leadership |
-| Banco do Brasil | Bank Clerk | 2010 | Client onboarding, account opening, banking limits and documentation control |
-| Winco Comercio Internacional | Intern | 2008 - 2009 | International trade, logistics, Incoterms, foreign exchange quotations and documentation |
-
-This background helps me connect technical operations with finance, suppliers, contracts, governance, communication and executive decision-making.
 
 ---
 
@@ -156,12 +122,10 @@ This background helps me connect technical operations with finance, suppliers, c
 ### TechChallenge / 4DS - Four Docker Storage
 
 **Problem:** Docker image storage can become expensive and difficult to govern at enterprise scale when artifact retention, usage patterns and storage layers are not optimized.  
-**Solution direction:** 4DS was designed to optimize Docker image storage through four hot/cold storage layers.  
+**Solution direction:** 4DS was designed to optimize Docker image storage through hot/cold storage layers.  
 **Role:** technical and operational leadership in a DevTools/DevOps context.  
 **Impact:** million-level savings in Docker storage and contribution to infrastructure modernization.  
 **What it proves:** cost optimization, platform thinking, DevOps governance, stakeholder alignment, troubleshooting and business-oriented engineering execution.
-
-A non-confidential public case study will be added to this portfolio to explain the architecture, metrics, constraints and lessons learned without exposing company-sensitive details.
 
 ---
 
@@ -196,27 +160,13 @@ A non-confidential public case study will be added to this portfolio to explain 
 
 ## Certifications and Education
 
-**Education**
-
 - Postgraduate Specialization in Cloud Computing and IoT - Universidade Anhembi Morumbi, 2024
 - Degree in Internet of Things and Cloud Computing - Universidade Anhembi Morumbi, 2023
 - Leadership and Management in Business - Macquarie Graduate School of Management, 2015 - 2018
 - Diploma of Education in Business, Administration and Marketing - Southern Cross University, 2018 - 2020
 - IELTS / Foreign Languages - Lloyd's International College, 2014 - 2015
-
-**Certifications and courses**
-
-- AWS
-- Google Cloud / GCP Associate
-- Microsoft Azure AZ-900
-- ITIL 4 Foundation - IT Service Management
-- Atlassian Operations Professional
-- DevOps Foundations
-- Programming Foundations: Secure Coding
-- Programming Foundations: Web Security
-- Learning the OWASP Top 10
-- HTML and CSS Step-by-step
-- Google Cloud Big Data & Machine Learning Fundamentals
+- AWS, Google Cloud / GCP Associate, Microsoft Azure AZ-900, ITIL 4 Foundation, Atlassian Operations Professional
+- DevOps Foundations, Secure Coding, Web Security, OWASP Top 10, HTML and CSS, Google Cloud Big Data & Machine Learning Fundamentals
 
 ---
 
@@ -238,31 +188,7 @@ Recruiters and hiring managers can validate this portfolio through five evidence
 2. **Impact evidence:** TechChallenge/4DS, Docker storage optimization, 28 KPIs, Power BI dashboards, DORA Metrics and cost governance.
 3. **Technical evidence:** CI/CD, Atlassian administration, SRE dashboards, MultiCloud operations, ServiceNow, automation and audit support.
 4. **Communication evidence:** fluent English, Spanish and Portuguese, international background and provider negotiation experience.
-5. **Portfolio evidence:** public GitHub case studies and technical documentation being organized from non-confidential professional experience.
-
----
-
-## Portfolio Roadmap
-
-| Portfolio asset | What it will demonstrate | Status |
-|---|---|---|
-| GitHub profile portfolio | Recruiter-ready summary and validation map | Live |
-| Atlassian governance case study | Jira, Confluence, Bitbucket administration, plugins, governance and audit evidence | In progress |
-| CI/CD standardization case study | Jenkins Shared Libraries, pipeline governance and DevOps enablement | Planned |
-| SRE observability case study | DataDog, MTTR, MTBF, SLA, availability and troubleshooting dashboards | Planned |
-| Cloud automation project | Python, Cloud Functions, MultiCloud operations and workflow automation | Planned |
-| AI engineering productivity note | Gemini Code Assist pilots, adoption KPIs and responsible AI workflow | Planned |
-
----
-
-## What I Bring to Multinational Technology Teams
-
-- Strong bridge between technical operations, business impact and executive visibility.
-- Experience with high-availability corporate environments and critical engineering platforms.
-- Hands-on background in DevOps, Cloud, SRE, ITSM, Atlassian governance and CI/CD.
-- Ability to work with engineering, architecture, finance, operations, procurement and business stakeholders.
-- International communication in Portuguese, English and Spanish.
-- Continuous improvement mindset with practical interest in AI-assisted productivity and modern platform engineering.
+5. **Portfolio evidence:** public GitHub projects and technical documentation created from non-confidential professional experience.
 
 ---
 
